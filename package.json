@@ -1,0 +1,13 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "tomd": "node js_to_md.js"
+  },
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  }
+}
